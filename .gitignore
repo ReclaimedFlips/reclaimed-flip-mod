@@ -1,0 +1,27 @@
+# Build output and Gradle caches
+build/
+.gradle/
+out/
+bin/
+run/
+*.jar
+*.class
+
+# IDE files
+.idea/
+.vscode/
+*.iml
+*.ipr
+*.iws
+
+# Local settings, logs and anything that could hold a secret
+*.log
+*.env
+.env*
+local.properties
+*.key
+*.pem
+hypixel_key
+discord.json
+reclaimedmarket-*.properties
+reclaimedmarket-bazaar-log.tsv
