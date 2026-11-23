@@ -25,3 +25,5 @@ hypixel_key
 discord.json
 reclaimedmarket-*.properties
 reclaimedmarket-bazaar-log.tsv
+
+!gradle/wrapper/gradle-wrapper.jar
